@@ -1,0 +1,9 @@
+.idea
+celery_log.txt
+tests/celery_log.txt
+api/celery_log.txt
+search_results_test.py
+spider(unused)
+tests/_trial_temp
+venv
+.env
